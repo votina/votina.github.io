@@ -45,31 +45,7 @@
       ]
     }
   ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "level": "",
-      "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
-      ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
-      ]
-    }
-  ],
+ 
   "education": [
     {
       "institution": "University of Hawaiʻi at Mānoa, Honolulu, HI",
@@ -82,32 +58,4 @@
       ]
     }
   ],
-  "work": [
-    {
-      "company": "Gastrointestinal Diagnostic Center",
-      "position": "Clinical Marketing Intern",
-      "website": "",
-      "startDate": "2020-08-01",
-      "endDate": "Present",
-      "summary": "",
-      "highlights": [
-        "Learned social media marketing strategies and practices to help grow a local gastroenterologist’s private practice",
-        "Co-authored blog posts related to various gastrointestinal and digestive system issues, adding a public health perspective to each topic",
-        "Contacted HR directors and CEOS on the Colorectal Cancer Provider Outreach Program (CRCPOP)"
-    },
-  ],
-  "volunteer": [
-    {
-      "organization": "Lean In Toronto",
-      "website": "",
-      "position": "Student Intern",
-      "startDate": "2021-03-01",
-      "endDate": "2021-05-23",
-      "summary": "",
-      "highlights": [
-        "Developed new communication strategies for sharing content with members",
-        "Created a pitch deck using PowerPoint to target university students in Ontario",
-        "Shared ideas with students and the Toronto Chapter board members"
-    }
-  ]
  
