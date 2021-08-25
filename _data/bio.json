@@ -50,7 +50,30 @@
          "studyType":"B.B.A",
          "startDate":"Fall, 2019",
          "endDate":"Present"
-      }
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Gastrointestinal Diagnostic Centers",
+      "position": "Clinical Marketing Intern",
+      "startDate": "2021-08-01",
+      "endDate": "Present",
+      "highlights": [
+        "Learned social media marketing strategies and practices to help grow a gastroenterologist’s private practice",
+        "Co-authored blog posts related to various gastrointestinal and digestive system issues",
+        "Made calls to HR directors and gastroenterologists regarding the Colorectal Cancer Provider Outreach Program (CRCPOP)"
+      ]
+    },
+     {
+      "company": "Lean In Toronto",
+      "position": "Student Intern",
+      "startDate": "2021-03-01",
+      "endDate": "2021-05-23",
+      "highlights": [
+        "Developed new communication strategies for sharing content with members",
+        "Created a pitch deck using PowerPoint to target university students in Ontario",
+        "Shared ideas with students and the Toronto Chapter board members"
+      ]
+    }
    ]
-}
- 
