@@ -1,74 +1,103 @@
 
   {
-   "basics":{
-      "name":"Tina Vo",
-      "label":"Shidler Undergraduate",
-      "picture":"https://votina.github.io/images/TinaVo_Profile.png",
-      "email":"tinavo@hawaii.edu",
-      "phone":"808-422-2222",
-      "website":"https://votina.github.io",
-      "summary":"I am studying for a B.B.A. in Marketing in the Shidler College of Business at the University of Hawaiʻi at Mānoa. I expect to graduate in Spring, 2023.",
-      "location":{
-         "address":"",
-         "postalCode":"",
-         "city":"Honolulu",
-         "countryCode":"USA",
-         "region":"Hawai'i"
-      },
-      "profiles":[
-         {
-            "network":"github",
-            "username":"votina",
-            "url":"https://votina.github.io"
-         }
-      ]
-   },
-   "interests":[
+  "basics": {
+    "name": "Tina Vo",
+    "label": "Shidler Undergraduate",
+    "picture": "https://votina.github.io/images/TinaVo_Profile.png",
+    "email": "tinavo@hawaii.edu",
+    "phone": "",
+    "website": "https://votina.github.io",
+    "summary": "I am studying for a B.B.A. in Marketing in the Shidler College of Business at the University of Hawaiʻi at Mānoa. I expect to graduate in Spring, 2023.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Honolulu",
+      "countryCode": "USA",
+      "region": "Hawai'i"
+    },
+    "profiles": [
       {
-         "name":"Music",
-        
+        "network": "github",
+        "username": "votina",
+        "url": "http://github.com/votina"
       },
       {
-         "name":"Video Editing",
-        
-      },
-      {
-         "name":"Sewing",
-         
+        "network": "linkedin",
+        "username": "tina-vo-317a1b204",
+        "url": "https://www.linkedin.com/in/tina-vo-317a1b204/"
       }
-   ],
-   "education":[
-      {
-         "institution":"University of Hawaiʻi at Mānoa, Honolulu, HI",
-         "area":"Marketing (expected Spring, 2023)",
-         "studyType":"B.B.A",
-         "startDate":"Fall, 2019",
-         "endDate":"Present"
-         "courses": [
+    ]
+  },
+  "interests": [
+    {
+      "name": "Music",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Video Editing",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Sewing",
+      "keywords": [
+        ]
+    },
+    {
+      "name": "Hiking",
+      "keywords": [
+        ]
+    },
+    {
+      "name": "Reading",
+      "keywords": [
+        ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaiʻi at Mānoa, Honolulu, HI",
+      "area": "Marketing (expected Spring, 2023)",
+      "studyType": "B.B.A.",
+      "startDate": "2019-08-26",
+      "endDate": "Present",
+      "gpa": "",
+      "courses": [
       ]
     }
   ],
-  "work": [
+  "experience": [
     {
       "company": "Gastrointestinal Diagnostic Centers",
       "position": "Clinical Marketing Intern",
+      "website": "",
       "startDate": "2021-08-01",
       "endDate": "Present",
-      "highlights": [
+      "summary": "": [
         "Learned social media marketing strategies and practices to help grow a gastroenterologist’s private practice",
         "Co-authored blog posts related to various gastrointestinal and digestive system issues",
-        "Made calls to HR directors and gastroenterologists regarding the Colorectal Cancer Provider Outreach Program (CRCPOP)"
+      "Made calls to HR directors and gastroenterologists regarding the Colorectal Cancer Provider Outreach Program (CRCPOP)"
       ]
     },
      {
       "company": "Lean In Toronto",
       "position": "Student Intern",
+      "website": "",
       "startDate": "2021-03-01",
       "endDate": "2021-05-23",
-      "highlights": [
-        "Developed new communication strategies for sharing content with members",
-        "Created a pitch deck using PowerPoint to target university students in Ontario",
-        "Shared ideas with students and the Toronto Chapter board members"
+      "summary": "": [
+       "Developed new communication strategies for sharing content with members",
+       "Created a pitch deck using PowerPoint to target university students in Ontario",
+       "Shared ideas with students and the Toronto Chapter board members"
+       
       ]
     }
-   ]
+   ],
+  "references": [
+    {
+      "name": "Available upon request",
+      "reference": ""
+    }
+  ]
+}
