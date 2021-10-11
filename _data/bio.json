@@ -7,7 +7,7 @@
     "email": "tinavo@hawaii.edu",
     "phone": "",
     "website": "https://votina.github.io",
-    "summary": "I am studying for a B.B.A. in Marketing in the Shidler College of Business at the University of Hawaiʻi at Mānoa. I expect to graduate in Spring, 2023.",
+    "summary": "I am studying for a B.B.A. in Marketing and MIS in the Shidler College of Business at the University of Hawaiʻi at Mānoa. I expect to graduate in Spring, 2023.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -30,7 +30,7 @@
   },
   "interests": [
     {
-      "name": "Music",
+      "name": "",
       "keywords": [
       ]
     },
@@ -50,7 +50,7 @@
         ]
     },
     {
-      "name": "Reading",
+      "name": "",
       "keywords": [
         ]
     }
